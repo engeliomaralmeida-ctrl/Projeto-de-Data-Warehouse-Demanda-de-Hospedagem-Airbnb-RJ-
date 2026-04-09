@@ -146,7 +146,9 @@ São criadas tabelas dimensionais (bairro, tempo, imóvel)
 A tabela fato centraliza as métricas de avaliação
 
 Esse modelo permite realizar análises rápidas e eficientes sobre a demanda.
-# Resultados
+
+# Resultado
+
 A análise mostrou que:
 
 Copacabana foi o bairro mais procurado
