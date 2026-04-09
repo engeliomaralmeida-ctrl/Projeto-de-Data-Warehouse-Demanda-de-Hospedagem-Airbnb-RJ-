@@ -5,15 +5,16 @@ Os dados de hospedagem do Rio de Janeiro foram tratados e organizados para permi
 # Problema 
 Quais bairros do Rio de Janeiro possuem maior número de avaliações, indicando maior demanda por hospedagem?
 
-# Modelo Conceitual 
-![Modelo ](https://github.com/user-attachments/assets/9bfaedb6-b945-452d-81d7-efa01f06ca62)
-
 # Objetivo 
 Identificar:
 Quais bairros são mais procurados
 Volume de avaliações (indicador de demanda)
 Quantidade de imóveis por bairro
 Média de avaliações por imóvel
+# Modelo Conceitual 
+![Modelo ](https://github.com/user-attachments/assets/9bfaedb6-b945-452d-81d7-efa01f06ca62)
+
+
 
 # Códigos 
 CREATE TABLE listings_staging (
