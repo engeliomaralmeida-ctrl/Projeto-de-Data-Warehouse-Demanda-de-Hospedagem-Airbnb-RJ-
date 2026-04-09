@@ -2,6 +2,8 @@
 Este projeto tem como objetivo a construção de um Data Warehouse utilizando o banco de dados PostgreSQL, com apoio da ferramenta pgAdmin para gerenciamento e execução dos comandos SQL.
 
 Os dados de hospedagem do Rio de Janeiro foram tratados e organizados para permitir análises sobre a demanda por bairros.
+# Problema 
+Quais bairros do Rio de Janeiro possuem maior número de avaliações, indicando maior demanda por hospedagem?
 
 # Objetivo 
 Identificar:
